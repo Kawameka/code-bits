@@ -3,3 +3,4 @@ This repository will hold files that include code snippets that I believe will b
 Current Code Bit Files include:
 - Angular Code bits
 - Ruby Code bits
+- C++ Code bits
