@@ -10,3 +10,49 @@ int main()
 }
 
 // End Code Bit #1
+
+// Code Bit #2
+// Template for creating an if-else statement
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int num = 1;
+    
+    if(num == 2) 
+    {
+        cout << "Num = 2";
+    }
+    else if(num == 1) 
+    {
+        cout << "Num = 1";
+    }
+    else 
+    {
+        cout << "Num does not equal 1 or 2.";
+    }
+    
+    return 0;
+}
+
+// End Code Bit #2
+
+// Code Bit #3
+// Template for a for-loop
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int iterations = 10;
+    
+    for(int inc = 0; inc < iterations; inc++)
+    {
+        cout << "We are have looped " << inc << " times!";
+    }
+    
+    return 0;
+}
+
+// End Code Bit #3
