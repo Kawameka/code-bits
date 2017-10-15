@@ -49,10 +49,32 @@ int main()
     
     for(int inc = 0; inc < iterations; inc++)
     {
-        cout << "We are have looped " << inc << " times!";
+        cout << "We are have looped " << inc << " times!" << endl;
     }
     
     return 0;
 }
 
 // End Code Bit #3
+
+// Code Bit #4
+// Template for while loop
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int iterations = 10;
+    int inc = 0;
+    
+    while(inc < iterations)
+    {
+        cout << "Loop " << inc << endl;
+        
+        inc++; // Incrementing the counter
+    }
+    
+    return 0;
+}
+
+// End Code Bit #4
