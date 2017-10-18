@@ -5,6 +5,7 @@ Current Code Bit Files include:
 - Ruby Code bits
 - C++ Code bits
 - React Code bits
+- Express Code bits
 
 To add more Code Bits:
 - Either add to the current files (e.g. add Angular code snippets to the AngularCodeBits.js file) or create a new file for a language/library/framework (e.g. ReactCodeBits.js or PythonCodeBits.py).
